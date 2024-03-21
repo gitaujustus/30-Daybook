@@ -1,6 +1,4 @@
-```markdown
 # 30-Daybook
-
 Welcome to 30-Daybook, your personalized learning journey companion! This project is a Progressive Web Application (PWA) built using Next.js, a React framework. It's designed to help you stay committed to learning something new every day for the next 30 days.
 
 ## Getting Started
@@ -41,4 +39,4 @@ You can start editing the pages in the `pages` directory. The project is set up 
 We welcome your feedback and contributions to make 30-Daybook even better! Feel free to submit bug reports, feature requests, or pull requests via GitHub.
 
 Let's embark on this 30-day learning journey together and unleash our full potential! 🚀
-```
+
