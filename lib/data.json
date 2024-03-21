@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "Sunday, March 17, 2024",
+    "title": "Learning React Hooks",
+    "content": "Today, I delved into React Hooks and learned about useState and useEffect hooks. They seem very powerful for managing state and side effects in functional components. Looking forward to exploring more!"
+  },
+  {
+    "id": 222,
+    "date": "Saturday, March 16, 2024",
+    "title": "Exploring Next.js",
+    "content": "Spent the day exploring Next.js framework. It provides great features like server-side rendering and static site generation out of the box. Excited to see how it can streamline our development process. It provides great features like server-side rendering and static site generation out of the box. Excited to see how it can streamline our development process."
+  },
+  {
+    "id": 3,
+    "date": "Friday, March 15, 2024",
+    "title": "Introduction to Tailwind CSS",
+    "content": "Started learning Tailwind CSS today. It's a utility-first CSS framework that seems very intuitive and efficient. Looking forward to incorporating it into future projects."
+  },
+  {
+    "id": 5343,
+    "date": "Friday, March 15, 2024",
+    "title": "Introduction to Tailwind CSS",
+    "content": "Started learning Tailwind CSS today. It's a utility-first CSS framework that seems very intuitive and efficient. Looking forward to incorporating it into future projects."
+  },
+  {
+    "id": 5,
+    "date": "Friday, March 15, 2024",
+    "title": "Introduction to Tailwind CSS",
+    "content": "Started learning Tailwind CSS today. It's a utility-first CSS framework that seems very intuitive and efficient. Looking forward to incorporating it into future projects."
+  }
+]
